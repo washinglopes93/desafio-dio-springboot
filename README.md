@@ -49,3 +49,12 @@ classDiagram
   User "1"*-- "N" News: has
 
 ```
+
+###Mapeamento Objeto Relacional (ORM)
+Na classe account inserido comentarios das atributos e encapsulamento deles. já esta mapeada em 9:39
+Na classe user inserido comentario de tudo que foi feito criação do atributos, feito encapsulamento, anotações e suas explicações
+Na classe card também foi feito as mesma anotações, atributos, encapsulamento e comentarios
+11:31 don't repaet yourself
+criado outra classe que extende em outras classes
+15:26 Criado interface que exteden jpa
+criei meu arquivo yml tive que instalar uma extensão no eclipse
